@@ -29,7 +29,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="border-t pt-6 text-center text-sm text-zinc-500">
-          © {new Date().getFullYear()} Pavent.
+          © {new Date().getFullYear()} Rättigheter reserverade och tjänsten drivs av Pavent.se
         </div>
       </div>
     </footer>
